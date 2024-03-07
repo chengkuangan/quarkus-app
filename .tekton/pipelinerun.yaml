@@ -39,7 +39,6 @@ spec:
       - name: repo_url
       - name: revision
     workspaces:
-    # comment
       - name: source
       - name: basic-auth
       - name: maven-settings
